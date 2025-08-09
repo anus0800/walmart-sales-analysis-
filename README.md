@@ -1,6 +1,4 @@
-# walmart-sales-analysis-
 # Walmart Sales Data Analysis (SQL Server)
-
 This project analyzes Walmart's weekly sales dataset to uncover trends, patterns, and insights that can help in decision-making.  
 The dataset contains information about store performance, weekly sales, fuel prices, markdown events, and economic indicators.
 
