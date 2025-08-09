@@ -45,7 +45,3 @@ README.md # Project documentation
 - Seasonal trends and holiday sales impact
 - Revenue variation across months and years
 - Average and total weekly sales distribution
-
-
--
-
