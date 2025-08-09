@@ -32,3 +32,22 @@ Using SQL Server, the following analysis queries were executed:
 - T-SQL Queries
 
 ## 📁 Project Structure
+sql/
+│ ├── 00_create_table_and_prepare.sql # Table creation & data prep
+│ └── 01_analysis_queries.sql # Analysis queries
+README.md # Project documentation
+
+## 🚀 How to Run the Project
+1. Create a database in SQL Server (e.g., `WalmartSalesDB`)
+2. Run `00_create_table_and_prepare.sql` to create the table and import data
+3. Execute queries from `01_analysis_queries.sql` to analyze the data
+
+## 📌 Key Insights
+- Identify high-performing stores
+- Seasonal trends and holiday sales impact
+- Revenue variation across months and years
+- Average and total weekly sales distribution
+
+
+-
+
